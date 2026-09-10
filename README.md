@@ -1,4 +1,4 @@
-<h1 style="color: #89CFF0;">ailt9019-sandbox</h1>
+![ailt9019-sandbox](title.svg)
 
 A sandbox repository for experimentation and development.
 
