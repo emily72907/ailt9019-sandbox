@@ -9,7 +9,7 @@ Hi, I'm Emily and I like the electric guitar.
 Clone the repository:
 
 ```bash
-git clone https://----------------------------github.com/emily72907/ailt9019-sandbox.git
+git clone https://github.com/emily72907/ailt9019-sandbox.git
 cd ailt9019-sandbox
 ```
 
